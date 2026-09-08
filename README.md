@@ -1,26 +1,32 @@
+<div align="center">
+
 # Hi, I'm Qiyang Li 👋
 
-I'm a software engineering student at Beihang University, exploring how intelligent agents learn, reason, collaborate, and build useful things.
+### Building agents, chasing ideas, and collecting side quests.
 
-## A little about me
+<a href="https://starry913.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-263f58?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"></a>
+<a href="mailto:qiyangli@buaa.edu.cn"><img src="https://img.shields.io/badge/Email-b70031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-- 🤖 Interested in **AI Agents**, **Reinforcement Learning**, and intelligent software systems
-- 🎮 A fan of **miHoYo** and **Genshin Impact**
-- 🏂 Happiest when **skiing**, **surfing**, or trying something slightly outside my comfort zone
-- 🔬 Learning how to turn curiosity into research, one question at a time
-- 🚀 Aspiring to become a truly great researcher — or, as I like to say, a **科研大手子**
+</div>
 
-## What I'm exploring
+<br>
 
 ```text
-Agents  ×  Reinforcement Learning  ×  Software Engineering
+AI Agents        Reinforcement Learning        Software Engineering
 ```
 
-I enjoy building research tools, reading papers, experimenting with ideas, and thinking about how agents can become more reliable, capable, and helpful.
+## Currently into
 
-## Find me
+- 🤖 Making agents more capable, reliable, and useful
+- 🎮 miHoYo · Genshin Impact
+- 🏂 Skiing · Surfing · anything that gets me outside
 
-- 🌐 [Personal Website](https://starry913.github.io/)
-- 📫 [qiyangli@buaa.edu.cn](mailto:qiyangli@buaa.edu.cn)
+## Long-term quest
 
-> Stay curious. Build boldly. Keep moving toward the questions that matter.
+Turn curiosity into research — and become a real **科研大手子**.
+
+<div align="center">
+
+> Stay curious. Build boldly. Keep moving.
+
+</div>
