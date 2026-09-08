@@ -1,32 +1,30 @@
 <div align="center">
 
-# Hi, I'm Qiyang Li 👋
-
-### Building agents, chasing ideas, and collecting side quests.
-
-<a href="https://starry913.github.io/"><img src="https://img.shields.io/badge/Personal%20Website-263f58?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"></a>
-<a href="mailto:qiyangli@buaa.edu.cn"><img src="https://img.shields.io/badge/Email-b70031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-</div>
+<img src="assets/profile-banner.svg" alt="Qiyang Li profile banner" width="100%">
 
 <br>
 
-```text
-AI Agents        Reinforcement Learning        Software Engineering
-```
+<p><a href="https://starry913.github.io/"><img src="https://img.shields.io/badge/Personal_Website-102d49?style=for-the-badge&logo=googlechrome&logoColor=72ddff" alt="Personal Website"></a>&nbsp;<a href="https://github.com/starry913"><img src="https://img.shields.io/badge/GitHub-starry913-241c3d?style=for-the-badge&logo=github&logoColor=f3a9cf" alt="GitHub"></a></p>
 
-## Currently into
+</div>
 
-- 🤖 Making agents more capable, reliable, and useful
-- 🎮 miHoYo · Genshin Impact
-- 🏂 Skiing · Surfing · anything that gets me outside
+## About me
 
-## Long-term quest
+Interested in **AI Agents** and **RL**. My long-term goal is simple: keep exploring, keep building, and become a real **科研大手子**.
 
-Turn curiosity into research — and become a real **科研大手子**.
+## Beyond research
+
+🎮 **Genshin Impact** · Furina  
+🕹️ **Honor of Kings** · 8230 Mayene · Farm Lane Legend  
+🏂 **Skiing** · **Swimming** · **Table Tennis**  
+⚽ **Football** · **Surfing** · **Fencing**
+
+## Contact
+
+`qiyangli@buaa.edu.cn` · `18811602913`
 
 <div align="center">
 
-> Stay curious. Build boldly. Keep moving.
+### ✦ Ad astra abyssosque ✦
 
 </div>
